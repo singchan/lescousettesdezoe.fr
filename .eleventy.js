@@ -16,6 +16,11 @@ eleventyConfig.addFilter('tagFilter', function(collection, category) {
     // remove duplicates using Set
     return [...new Set(tags)]
   })
+  // slideshow
+  eleventyConfig.addPassthroughCopy({
+    'node_modules/@splidejs/splide/dist/js': 'js',
+    'node_modules/@splidejs/splide/dist/css': 'css',
+  })
   // copy folders
   eleventyConfig.addPassthroughCopy('assets')
   eleventyConfig.addPassthroughCopy('css/*.css')
