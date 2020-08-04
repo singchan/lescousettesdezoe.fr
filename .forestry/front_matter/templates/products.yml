@@ -17,4 +17,5 @@ fields:
   config: {}
   label: Images
 pages:
+- products/snood-achille.md
 - products/snood-octave.md
