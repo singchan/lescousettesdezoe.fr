@@ -1,4 +1,14 @@
 ---
 label: Products
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Nom
+- name: tags
+  type: tag_list
+  default:
+  - product
+  label: Tags
