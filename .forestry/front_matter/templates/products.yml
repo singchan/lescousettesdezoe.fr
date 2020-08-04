@@ -12,3 +12,5 @@ fields:
   default:
   - product
   label: Tags
+pages:
+- products/snood-octave.md
