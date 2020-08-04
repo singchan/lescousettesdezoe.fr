@@ -12,5 +12,9 @@ fields:
   default:
   - product
   label: Tags
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
 pages:
 - products/snood-octave.md
