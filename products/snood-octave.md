@@ -2,7 +2,6 @@
 tags:
 - hiver
 - enfant
-- Snoods et écharpes
 - fille
 title: Snood Alma
 images:
