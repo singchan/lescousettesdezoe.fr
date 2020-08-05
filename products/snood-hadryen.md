@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - hiver
 - cadeau
 - enfant
@@ -8,6 +7,8 @@ tags:
 title: Snood Hadryen
 images:
 - "/assets/3_hadryen.png"
+price: 
+conditions: Délai XXX
 
 ---
 ## Snood Hadryen
