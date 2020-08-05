@@ -17,6 +17,7 @@ fields:
   config: {}
   label: Images
 pages:
+- products/bavoir-luke.md
 - products/bouillottes-josephine.md
 - products/collier-cervical-chauffant.md
 - products/echarpe-marthe.md
