@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - Les nomades
 - cadeau
 - homme
@@ -9,10 +8,10 @@ tags:
 title: Etui à lunettes Marvin
 images:
 - "/assets/3_marvin.png"
+price: 
+conditions: ''
 
 ---
 ## Etui à lunettes Marvin
 
-Etui à lunettes, simple et classe.
-
-Dimensions : 19 cm x 8 cm
+Etui à lunettes, simple et classe. Dimensions : 19 cm x 8 cm
