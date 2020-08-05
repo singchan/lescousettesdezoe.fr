@@ -3,8 +3,7 @@ tags:
 - hiver
 - femme
 - cadeau
-- écharpe
-- Snoods et écharpes
+- Les snoods et écharpes
 title: Echarpe Phillipa
 images:
 - "/assets/4_philippa.png"
