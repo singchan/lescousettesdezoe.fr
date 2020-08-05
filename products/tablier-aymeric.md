@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - Le coin des cuisiniers
 - pratique
 - cadeau
