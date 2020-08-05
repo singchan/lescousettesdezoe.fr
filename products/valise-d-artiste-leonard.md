@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - cadeau
 - garçon
 - fille
