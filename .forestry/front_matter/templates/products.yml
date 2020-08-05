@@ -26,6 +26,12 @@ fields:
     min: 
     max: 
     step: 
+- name: conditions
+  type: text
+  config:
+    required: false
+  label: Conditions
+  description: Par exemple <strong>Enfant. délai 2-3 sem.</strong>
 pages:
 - products/bavoir-luke.md
 - products/bouillottes-josephine.md
