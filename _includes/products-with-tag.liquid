@@ -1,9 +1,8 @@
 {% assign items = collections.product | tagFilter: _tag %}
 {%- for item in items %}
 <a class="list-links" href="{{ site.url }}{{ site.baseurl }}{{ item.url | url }}">
-  <div class="splide slideshow">
   {% if item.data.images.size > 0 %}
-    <img src="{{ item.data.images[0] }}">
+    <img src="{{ site.url }}{{ site.baseurl }}{{ item.data.images[0] }}">
   {% endif %}
   <div>
     <h2>{{ item.data.title }}&nbsp; <b>- {{item.data.price}}€</b></h2><h3>{{item.data.conditions}}&nbsp; <u>&gt; Voir la fiche produit</u></h3>
