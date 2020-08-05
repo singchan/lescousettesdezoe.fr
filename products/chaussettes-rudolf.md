@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - noël
 - Les festifs
 - cadeau
@@ -9,6 +8,8 @@ tags:
 title: Chaussettes Rudolf
 images:
 - "/assets/2_rudolf.png"
+price: 
+conditions: ''
 
 ---
 ## Chaussettes Rudolf
