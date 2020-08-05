@@ -4,6 +4,7 @@ tags:
 - cadeau
 - homme
 - adulte
+- Les snoods et écharpes
 title: Echarpe Stan
 images:
 - "/assets/5_stan.png"
