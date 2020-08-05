@@ -1,17 +1,10 @@
 {% assign items = collections.product | tagFilter: _tag %}
 {%- for item in items %}
-<div class="container-list">
+<a href="{{ site.url }}{{ site.baseurl }}{{ item.url | url }}">
   <img src="/assets/1_alma.png">
   <div>
-    <h2>Snood Achille&nbsp; <b>- 25€</b></h2><h3>Enfant. délai 2-3 sem.&nbsp; <u>&gt; Voir la fiche produit</u></h3>
+    <h2>{{ item.data.title }}&nbsp; <b>- {{item.data.price}}€</b></h2><h3>{{item.data.conditions}}&nbsp; <u>&gt; Voir la fiche produit</u></h3>
   </div>
-  <a href="{{ site.url }}{{ site.baseurl }}{{ item.url | url }}">{{ item.data.title }}</a>
-</div>
+</a>
 {% endfor -%}
-
-<style>
-.container-list {
-  display: inline;
-}
-</style>
 
