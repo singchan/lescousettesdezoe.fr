@@ -3,8 +3,8 @@ tags:
 - hiver
 - cadeau
 - enfant
-- écharpe
-- Snoods et écharpes
+- garçon
+- fille
 title: Snood Hadryen
 images:
 - "/assets/3_hadryen.png"
