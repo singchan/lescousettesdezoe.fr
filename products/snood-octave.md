@@ -3,9 +3,11 @@ tags:
 - product
 - snoods
 - echarpes
-- femme
 - hiver
+- enfant
 title: Snood Alma
+images:
+- "/assets/1_alma.png"
 
 ---
 ## Snood Alma
