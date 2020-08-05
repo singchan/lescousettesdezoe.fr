@@ -1,19 +1,17 @@
 ---
 tags:
-- product
 - hiver
 - femme
-- hiver
 - cadeau
 - écharpe
-- snood
+- Snoods et écharpes
 title: Echarpe Phillipa
 images:
 - "/assets/4_philippa.png"
+price: 
+conditions: ''
 
 ---
-## Écharpe philippa
+## Écharpe Philippa
 
-Echarpe femme en tartan écossais beige, doublée polaire ultra douce.
-
-Lavable à 30 degrés.
+Echarpe femme en tartan écossais beige, doublée polaire ultra douce. Lavable à 30 degrés.
