@@ -17,6 +17,7 @@ fields:
   config: {}
   label: Images
 pages:
+- products/echarpe-marthe.md
 - products/echarpe-phillipa.md
 - products/snood-achille.md
 - products/snood-colette.md
