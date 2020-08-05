@@ -19,4 +19,4 @@ conditions: ''
 ---
 ## Valise d’artiste léonard
 
-Valise d’artiste aux motifs girly, étoiles, halloween, motif adulte ou ce que vous voulez ! A emporter partout grâce à ses anses. La pochette à boutons est assez grande pour contenir une règle de 20 cm.Et si votre monstre barbouille le tissu de feutre, vous pouvez passer la valise en machine à 30 degrés !  Dimensions (fermé) : 32x25
+Valise d’artiste aux motifs girly, étoiles, halloween, motif adulte ou ce que vous voulez ! A emporter partout grâce à ses anses. La pochette à boutons est assez grande pour contenir une règle de 20 cm. Et si votre monstre barbouille le tissu de feutre, vous pouvez passer la valise en machine à 30 degrés ! Dimensions (fermé) : 32x25cm.
