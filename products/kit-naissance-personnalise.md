@@ -4,6 +4,7 @@ tags:
 - Les cadeaux de naissance
 - fille
 - garçon
+- bébé
 title: Kit naissance personnalisé
 images:
 - "/assets/2_kit_naissance.png"
