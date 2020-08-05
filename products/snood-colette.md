@@ -4,6 +4,7 @@ tags:
 - cadeau
 - enfant
 - girly
+- Les snoods et écharpes
 title: Snood Colette
 images:
 - "/assets/3_colette.png"
