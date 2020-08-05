@@ -1,6 +1,12 @@
 ---
 tags:
 - product
+- hiver
+- femme
+- hiver
+- cadeau
+- écharpe
+- snood
 title: Echarpe Phillipa
 images:
 - "/assets/4_philippa.png"
