@@ -12,7 +12,7 @@ images:
 - "/assets/2_paloma_grand.png"
 
 ---
-Trousse Paloma grand format
+## Trousse Paloma grand format
 
 Grande sœur de la trousse Paloma, aux motifs au choix, pratique avec deux petites poches plaquées à l’intérieur.
 
