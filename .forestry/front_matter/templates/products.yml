@@ -17,6 +17,7 @@ fields:
   config: {}
   label: Images
 pages:
+- products/bouillottes-josephine.md
 - products/echarpe-marthe.md
 - products/echarpe-phillipa.md
 - products/echarpe-stan.md
