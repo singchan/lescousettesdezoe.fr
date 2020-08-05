@@ -1,13 +1,16 @@
 ---
 tags:
-- product
-- cocooning
 - hiver
 - cadeau
+- Les cocooning
+- homme
+- femme
 title: Collier cervical chauffant
 images:
 - "/assets/2a_collier_cervical.png"
 - "/assets/2_collier_cervical2.png"
+price: 
+conditions: ''
 
 ---
 ## Collier cervical chauffant
