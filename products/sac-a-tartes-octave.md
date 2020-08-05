@@ -8,6 +8,7 @@ title: Sac à tartes Octave
 images:
 - "/assets/1_octave1.png"
 - "/assets/1a_octave2.png"
+price: 23
 
 ---
 ## Sac à tarte Octave
