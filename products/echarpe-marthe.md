@@ -3,7 +3,6 @@ tags:
 - hiver
 - cadeau
 - femme
-- Snoods et écharpes
 title: Echarpe Marthe
 images:
 - "/assets/5_marthe.png"
