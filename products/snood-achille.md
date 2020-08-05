@@ -5,7 +5,6 @@ tags:
 - écharpe
 - hiver
 - enfant
-- garçon
 title: Snood Achille
 images:
 - "/assets/2_achille.png"
