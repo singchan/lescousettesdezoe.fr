@@ -14,6 +14,5 @@ price: 23
 ## Sac à tarte Octave
 
 Le sac à tarte, ou sac à gâteau, tourte, galette :) toujours très utile.  
-Doublé. Lavable à 30 degrés.  
-Dimensions : 40x40 cm environ  
+Doublé. Lavable à 30 degrés. Dimensions : 40x40 cm environ.  
 Différents tissus possibles, à voir ensemble.
