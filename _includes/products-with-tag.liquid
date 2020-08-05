@@ -2,7 +2,7 @@
 {%- for item in items %}
 <a class="list-links" href="{{ site.url }}{{ site.baseurl }}{{ item.url | url }}">
   <div class="splide slideshow">
-  {% if images.size > 0 %}
+  {% if item.data.images.size > 0 %}
     <img src="{{ item.data.images[0] }}">
   {% endif %}
   <div>
