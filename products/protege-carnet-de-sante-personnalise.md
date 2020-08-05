@@ -2,9 +2,9 @@
 tags:
 - product
 - Les cadeaux de naissance
-- bebe
 - garçon
 - fille
+- bébé
 title: Protège carnet de santé personnalisé
 images:
 - "/assets/5a_carnet2sante2.png"
