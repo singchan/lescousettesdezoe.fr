@@ -1,15 +1,14 @@
 ---
 tags:
-- product
 - hiver
 - cadeau
 - enfant
 - girly
-- snood
-- écharpe
 title: Snood Colette
 images:
 - "/assets/3_colette.png"
+price: 
+conditions: ''
 
 ---
 ## Snood colette
