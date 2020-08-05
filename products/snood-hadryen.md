@@ -4,6 +4,7 @@ tags:
 - cadeau
 - enfant
 - écharpe
+- Snoods et écharpes
 title: Snood Hadryen
 images:
 - "/assets/3_hadryen.png"
