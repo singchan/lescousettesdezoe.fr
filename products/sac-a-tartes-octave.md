@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - Le coin des cuisiniers
 - pratique
 - cadeau
@@ -9,6 +8,7 @@ images:
 - "/assets/1_octave1.png"
 - "/assets/1a_octave2.png"
 price: 23
+conditions: ''
 
 ---
 ## Sac à tarte Octave

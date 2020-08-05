@@ -1,6 +1,5 @@
 ---
 tags:
-- product
 - Les nomades
 - pratique
 - cadeau
@@ -10,6 +9,8 @@ tags:
 title: Sac à linge Marcus
 images:
 - "/assets/8_marcus.png"
+price: 
+conditions: ''
 
 ---
 ## Sac à linge Marcus
