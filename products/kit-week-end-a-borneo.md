@@ -1,19 +1,17 @@
 ---
 tags:
-- product
 - femme
 - homme
 - cadeau
 - pratique
+- Les nomades
 title: Kit week-end à Bornéo
 images:
 - "/assets/5_kit_we_borneo.png"
+price: 
+conditions: ''
 
 ---
 ## Kit week-end à Bornéo
 
-Le kit week-end contient : un sac à linge, un étui à brosse à dents et dentifrice, deux étiquettes à bagages, un masque de nuit.
-
-Dimensions du sac à linge : L25 cm x H35 cm environ. 
-
-Lavable à 30 degrés.
+Le kit week-end contient : un sac à linge, un étui à brosse à dents et dentifrice, deux étiquettes à bagages, un masque de nuit. Dimensions du sac à linge : L25 cm x H35 cm environ. Lavable à 30 degrés.
