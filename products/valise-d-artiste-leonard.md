@@ -9,11 +9,13 @@ tags:
 - enfant
 title: Valise d'artiste Léonard
 images:
+- "/assets/1_leonard.png"
+- "/assets/1a_leonard.png"
 - "/assets/1d_leonard.png"
 - "/assets/1c_leonard.png"
 - "/assets/1b_leonard.png"
-- "/assets/1a_leonard.png"
-- "/assets/1_leonard.png"
+price: 
+conditions: ''
 
 ---
 ## Valise d’artiste léonard
