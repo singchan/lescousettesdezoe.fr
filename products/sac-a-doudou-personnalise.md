@@ -5,6 +5,7 @@ tags:
 - enfant
 - garçon
 - fille
+- bébé
 title: Sac à doudou personnalisé
 images:
 - "/assets/4_sac_doudou.png"
