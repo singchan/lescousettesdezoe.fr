@@ -16,6 +16,16 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: price
+  type: number
+  label: Prix
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - products/bavoir-luke.md
 - products/bouillottes-josephine.md
