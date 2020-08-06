@@ -7,7 +7,7 @@ tags:
 title: Kit naissance personnalisé
 images:
 - "/assets/2_kit_naissance.png"
-price: 
+price: 59
 conditions: ''
 
 ---
