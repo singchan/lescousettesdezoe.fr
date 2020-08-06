@@ -7,7 +7,7 @@ tags:
 title: Echarpe Phillipa
 images:
 - "/assets/4_philippa.png"
-price: 
+price: 30
 conditions: ''
 
 ---
