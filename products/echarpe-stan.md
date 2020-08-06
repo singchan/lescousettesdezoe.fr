@@ -8,7 +8,7 @@ tags:
 title: Echarpe Stan
 images:
 - "/assets/5_stan.png"
-price: 
+price: 30
 conditions: ''
 
 ---
