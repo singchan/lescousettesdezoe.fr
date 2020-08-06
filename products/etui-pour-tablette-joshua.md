@@ -8,7 +8,7 @@ tags:
 title: Etui pour tablette Joshua
 images:
 - "/assets/4_joshua.png"
-price: 
+price: 35
 conditions: ''
 
 ---
