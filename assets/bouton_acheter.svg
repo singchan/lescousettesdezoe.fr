@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="489" height="122" viewBox="0 0 489 122">
+  <g id="Groupe_174" data-name="Groupe 174" transform="translate(-1612 -1272)">
+    <rect id="Rectangle_454" data-name="Rectangle 454" width="489" height="122" rx="23" transform="translate(1612 1272)" fill="#e2c5cb"/>
+    <g id="add_to_cart" data-name="add to cart" transform="translate(1650 1290.388)" style="isolation: isolate">
+      <text id="ajouter_au_panier" data-name="ajouter au panier" transform="translate(158 53.612)" fill="#fff" font-size="35" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.06em"><tspan x="-157.808" y="0">ajouter au panier</tspan></text>
+      <g id="icon" transform="translate(341.324 0)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="85.34" height="87.779" rx="24" fill="#fff"/>
+        <path id="Tracé_11" data-name="Tracé 11" d="M39.506,28.063v-.006A2.43,2.43,0,0,0,38.76,26.3h0l-14.63-14.63-.007.007a2.437,2.437,0,1,0-3.275,3.609L33.625,28.062,20.683,41h0a2.438,2.438,0,0,0,3.447,3.447h0l14.63-14.63h0a2.43,2.43,0,0,0,.746-1.755Z" transform="translate(14.136 15.821)" fill="#515c6f"/>
+      </g>
+    </g>
+  </g>
+</svg>
