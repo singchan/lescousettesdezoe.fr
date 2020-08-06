@@ -7,10 +7,10 @@ tags:
 - femme
 title: Tablier Aymeric
 images:
-- "/assets/2a_aymeric2.png"
 - "/assets/2_aymeric1.png"
-price: 
-conditions: Délai XXX
+- "/assets/2a_aymeric2.png"
+price: 39
+conditions: ''
 
 ---
 ## Tablier Aymeric
