@@ -7,7 +7,7 @@ tags:
 title: Bouillottes Joséphine
 images:
 - "/assets/1_bouillottes_seches.png"
-price: 
+price: 16
 conditions: ''
 
 ---
