@@ -8,14 +8,10 @@ tags:
 title: Snood Hadryen
 images:
 - "/assets/3_hadryen.png"
-price: 
-conditions: Délai XXX
+price: 25
+conditions: ''
 
 ---
 ## Snood Hadryen
 
-Snood enfant en polaire ultra-douce, réversible, pour s’assortir à toutes les tenues.
-
-Lavable à 30 degrés.
-
-Taille 2-5 ans
+Snood enfant en polaire ultra-douce, réversible, pour s’assortir à toutes les tenues. Lavable à 30 degrés. Taille 2-5 ans ou 6-12 ans.
