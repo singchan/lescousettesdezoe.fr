@@ -1,12 +1,10 @@
 ---
 tags:
-- bouillotte
 - hiver
 - cadeau
 - Les cocooning
 title: Bouillottes Joséphine
-images:
-- "/assets/1_bouillottes_seches.png"
+images: []
 price: 16
 conditions: ''
 
