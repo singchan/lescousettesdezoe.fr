@@ -10,7 +10,7 @@ images:
 - "/assets/2_paloma_grand.png"
 - "/assets/2a_paloma_grand.png"
 price: 
-conditions: Délai XXX
+conditions: ''
 
 ---
 ## Trousse Paloma grand format
