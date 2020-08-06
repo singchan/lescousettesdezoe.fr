@@ -8,10 +8,10 @@ tags:
 title: Chaussettes Rudolf
 images:
 - "/assets/2_rudolf.png"
-price: 
+price: 12
 conditions: ''
 
 ---
 ## Chaussettes Rudolf
 
-Chaussettes de Noël à garnir ou simplement pour faire une belle déco de Noël ! 25 cm de haut.
+3 chaussettes de Noël à garnir, ou simplement pour faire une belle déco de Noël ! 25 cm de haut.
