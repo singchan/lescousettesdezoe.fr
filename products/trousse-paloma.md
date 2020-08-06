@@ -11,8 +11,8 @@ images:
 - "/assets/1a_paloma.png"
 - "/assets/1b_paloma.png"
 - "/assets/1bc_paloma.png"
-price: 
-conditions: Délai XXX
+price: 32
+conditions: ''
 
 ---
 ## Trousse Paloma
