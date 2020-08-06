@@ -9,7 +9,7 @@ tags:
 title: Snood Achille
 images:
 - "/assets/2_achille.png"
-price: 
+price: 25
 conditions: ''
 
 ---
