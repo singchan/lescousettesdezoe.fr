@@ -8,7 +8,7 @@ tags:
 title: Snood Colette
 images:
 - "/assets/3_colette.png"
-price: 
+price: 29
 conditions: ''
 
 ---
