@@ -6,7 +6,7 @@ tags:
 title: Snood Alma
 images:
 - "/assets/1_alma.png"
-price: 
+price: 28
 conditions: ''
 
 ---
