@@ -9,7 +9,7 @@ tags:
 title: Robe Célestine hiver
 images:
 - "/assets/2_celestine_hiver.png"
-price: 
+price: 42
 conditions: ''
 
 ---
