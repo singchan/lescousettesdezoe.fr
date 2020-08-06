@@ -1,6 +1,9 @@
 ---
 tags:
-- product
+- Les nomades
+- cadeau
+- homme
+- femme
 price: 0
 title: Etui à brosse à dents Horace
 images:
