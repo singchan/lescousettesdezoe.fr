@@ -9,7 +9,7 @@ tags:
 title: Sac à doudou personnalisé
 images:
 - "/assets/4_sac_doudou.png"
-price: 
+price: 23
 conditions: ''
 
 ---
