@@ -4,9 +4,11 @@ tags:
 - cadeau
 - homme
 - femme
-price: 0
+price: 
 title: Masque de nuit Bobby
-images: []
+images:
+- "/assets/7_bobby.png"
+- "/assets/7a_bobby.png"
 conditions: ''
 
 ---
