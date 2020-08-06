@@ -5,7 +5,7 @@ tags:
 - femme
 - hiver
 - cadeau
-price: 0
+price: 25
 title: Snood Edward
 images:
 - "/assets/3_edward.png"
