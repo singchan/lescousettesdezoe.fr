@@ -15,4 +15,4 @@ conditions: ''
 ---
 ## Sac à linge Marcus
 
-Description à écrire
+Pour les voyageurs, ou pour un week-end, le sac à linge Marcus vous suit partout ! XXXXXXX
