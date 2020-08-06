@@ -6,7 +6,7 @@ tags:
 title: Echarpe Marthe
 images:
 - "/assets/5_marthe.png"
-price: 
+price: 30
 conditions: ''
 
 ---
