@@ -11,10 +11,13 @@ eleventyConfig.addFilter('tagFilter', function(collection, category) {
       .filter(item => !item.data.pagination || !item.data.pagination.previous)
   })
   eleventyConfig.addCollection('generatedTags', function(collectionApi) {
-    const tags = collectionApi.getFilteredByTag('product')
-      .flatMap(item => item.data.tags.filter(tag => tag !== 'product'))
+    const tags = collectionApi.getFilteredByGlob('products/**/*.md')
+      .flatMap(item => item.data.tags)
     // remove duplicates using Set
     return [...new Set(tags)]
+  })
+  eleventyConfig.addCollection('generatedProducts', function(collectionApi) {
+    return collectionApi.getFilteredByGlob('products/**/*.md')
   })
   // slideshow
   eleventyConfig.addPassthroughCopy({

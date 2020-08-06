@@ -1,4 +1,4 @@
-{% assign items = collections.product | tagFilter: _tag %}
+{% assign items = collections.generatedProducts | tagFilter: _tag %}
 {%- for item in items %}
 <a class="list-links" href="{{ site.url }}{{ site.baseurl }}{{ item.url | url }}">
   {% if item.data.images.size > 0 %}

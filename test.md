@@ -2,10 +2,10 @@
 layout: test
 title: test
 pagination:
-  data: collections.product
+  data: collections.generatedProducts
   size: 2
   addAllPagesToCollections: true
-  alias: product
+  alias: generatedProducts
 
 ---
 
