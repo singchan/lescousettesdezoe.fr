@@ -8,7 +8,7 @@ tags:
 title: Kit week-end à Bornéo
 images:
 - "/assets/5_kit_we_borneo.png"
-price: 
+price: 37
 conditions: ''
 
 ---
