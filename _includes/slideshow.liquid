@@ -7,7 +7,7 @@
 		<ul class="splide__list">
       {%- for item in images %}
       <li class="splide__slide">
-        <img src="{{ site.url }}{{ site.baseurl }}{{ item | url }}" title="TITLE" alt="ALT" />
+        <img src="{{ site.url }}{{ site.baseurl }}{{ item | url }}" title="{{ title }} image {{forloop.index}}" alt="{{ title }} image {{forloop.index}}" />
       </li>
       {% endfor -%}
 		</ul>
@@ -29,5 +29,5 @@
   }
 </style>
 {% else if images.size == 1 %}
-    <img src="{{ site.url }}{{ site.baseurl }}{{ images[0] | url }}" title="TITLE" alt="ALT" />
+  <img src="{{ site.url }}{{ site.baseurl }}{{ images[0] | url }}" title="{{title}} illustration" alt="{{title}} illustration" />
 {% endif %}

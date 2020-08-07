@@ -1,6 +1,7 @@
 {% if _tags %}
   {%- for tag in _tags %}
-    <a href="{{ site.url }}{{ site.baseurl }}/tags/{{ tag | slug }}">{{ tag }}</a>&nbsp;
+  <a href="{{ site.url }}{{ site.baseurl }}/tags/{{ tag | slug }}">{{ tag }}</a>
+  {% if forloop.last == false %}{{_sep | default: '&nbsp;'}}{% endif %}
   {% endfor -%}
 {% else %}
   Error: `_tags` not defined
