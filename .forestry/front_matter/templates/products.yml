@@ -33,13 +33,11 @@ fields:
   label: Conditions
   description: Par exemple <strong>Enfant. délai 2-3 sem.</strong>
 - name: reviews
-  type: textarea
-  default: ''
+  type: field_group_list
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
+    min: 
+    max: 
+    labelField: 
   label: Avis
 pages:
 - products/bavoir-luke.md
