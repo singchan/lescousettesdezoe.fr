@@ -32,6 +32,15 @@ fields:
     required: false
   label: Conditions
   description: Par exemple <strong>Enfant. délai 2-3 sem.</strong>
+- name: reviews
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Avis
 pages:
 - products/bavoir-luke.md
 - products/bouillottes-josephine.md
