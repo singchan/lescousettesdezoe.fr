@@ -14,6 +14,8 @@ images:
 - "/assets/1a_luke2.png"
 price: 
 conditions: ''
+reviews:
+- text: test
 
 ---
 ## Bavoirs Luke
