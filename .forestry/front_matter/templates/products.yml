@@ -34,6 +34,16 @@ fields:
   description: Par exemple <strong>Enfant. délai 2-3 sem.</strong>
 - name: reviews
   type: field_group_list
+  fields:
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: text
   config:
     min: 
     max: 
