@@ -11,6 +11,8 @@ images:
 - "/assets/2_achille.png"
 price: 25
 conditions: ''
+reviews:
+- text: test
 
 ---
 ## Snood Achille
