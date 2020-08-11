@@ -17,6 +17,9 @@ images:
 price: 35
 conditions: ''
 reviews:
+- text: "« Mon fils de 5 ans adore sa pochette d’artiste, du coup il en prend grand
+    soin ! Enfin quelque chose qui ne ressemble pas à tout ce qu’on trouve habituellement.
+    J’ai pu choisir les tissus pour coller à ses goûts., je suis ravie. » M.R."
 - text: |-
     « C’est juste super chouette. Ma fille l’emporte partout. »
     M.B.
