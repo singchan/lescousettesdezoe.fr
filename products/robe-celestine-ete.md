@@ -11,6 +11,11 @@ images:
 - "/assets/1_celestine_ete.png"
 price: 42
 conditions: ''
+reviews:
+- text: "« J’ai déjà pu profiter de plusieurs créations de Zoé pour ma fille de 7
+    ans. Cette petite robe d’été lui va comme un gant, elle est doublée et très élégante.
+    Les créations de Zoé sont esthétiques, pratiques et solides ! Je n’ai rien à redire
+    sur les finitions ! Allez-y, n’hésitez pas à commander ! » A.F."
 
 ---
 ## Robe Célestine été
