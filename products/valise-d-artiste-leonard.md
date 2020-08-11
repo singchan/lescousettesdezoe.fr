@@ -17,6 +17,9 @@ images:
 price: 35
 conditions: ''
 reviews:
+- text: |-
+    « C’est juste super chouette. Ma fille l’emporte partout. »
+    M.B.
 - text: "« Idéal pour les voyages. Ma fille fait beaucoup d’envieuses parmi ses copines
     ! » A.F."
 
