@@ -10,6 +10,8 @@ title: Snood Edward
 images:
 - "/assets/3_edward.png"
 conditions: ''
+reviews:
+- text: "« D’une douceur et d’un confort sans pareil » M.B."
 
 ---
 ## Snood Edward
