@@ -13,6 +13,10 @@ images:
 - "/assets/1bc_paloma.png"
 price: 32
 conditions: ''
+reviews:
+- text: |-
+    « Super achat ! Une trousse qui ne ressemble à aucune autre, tout ça pour un tout petit prix. Coutures invisibles, ensemble solide qui correspond complètement à ce que je voulais ! Des poches intérieures, un tissu molletonné… Un travail de qualité. Du coup je me suis commandé la même en plus grand. »
+    M.R.
 
 ---
 ## Trousse Paloma
