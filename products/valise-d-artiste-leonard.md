@@ -16,6 +16,9 @@ images:
 - "/assets/1b_leonard.png"
 price: 35
 conditions: ''
+reviews:
+- text: "« Idéal pour les voyages. Ma fille fait beaucoup d’envieuses parmi ses copines
+    ! » A.F."
 
 ---
 ## Valise d’artiste Léonard
