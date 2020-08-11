@@ -9,6 +9,9 @@ images:
 - "/assets/1a_octave2.png"
 price: 22
 conditions: ''
+reviews:
+- text: "« Je viens de le recevoir, super beau. J’ai trop hâte de transporter une
+    tarte ! » M.B."
 
 ---
 ## Sac à tarte Octave
