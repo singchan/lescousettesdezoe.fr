@@ -26,6 +26,7 @@ eleventyConfig.addFilter('tagFilter', function(collection, category) {
   })
   // copy folders
   eleventyConfig.addPassthroughCopy('assets')
+  eleventyConfig.addPassthroughCopy('uploads')
   eleventyConfig.addPassthroughCopy('css/*.css')
   eleventyConfig.addPassthroughCopy('js')
   // other config
