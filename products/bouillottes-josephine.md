@@ -5,7 +5,7 @@ tags:
 - Les cocooning
 title: Bouillottes Joséphine
 images:
-- "/uploads/3_cocooning.png"
+- "/uploads/1_bouillottes_seches.png"
 price: 16
 conditions: ''
 reviews: []
