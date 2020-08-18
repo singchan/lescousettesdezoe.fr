@@ -1,0 +1,23 @@
+{% comment %} GET THE CURENT PAGE IDX {% endcomment %}
+{% assign items = collections.generatedProducts %}
+{% assign currentItemIndex = 0 %}
+{%- for item in items %}
+  {% if item.url == page.url %}
+    {% assign currentItemIndex = forloop.index %}
+  {% endif %}
+{% endfor %}
+{% assign numItems = items.size | minus: 3 %}
+{% if currentItemIndex > numItems %}
+  {% assign currentItemIndex = 0 %}
+{% endif %}
+{% comment %} GET THE PREVIOUS AND NEXT ELEMENTS{% endcomment %}
+{%- for item in items offset:currentItemIndex limit:3 %}
+<a class="list-links" href="{{ site.url }}{{ site.baseurl }}{{ item.url | url }}">
+  {% if item.data.images.size > 0 %}
+    <img src="{{ site.url }}{{ site.baseurl }}{{ item.data.images[0] }}">
+  {% endif %}
+  <div>
+    <h2>{{ item.data.title }}&nbsp; <b>- {{item.data.price}}€</b></h2><h3>{{item.data.conditions}}&nbsp; <u>&gt; Voir la fiche produit</u></h3>
+  </div>
+</a>
+{% endfor -%}
