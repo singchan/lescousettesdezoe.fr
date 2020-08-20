@@ -1,15 +1,16 @@
 ---
 tags:
-- noël
 - Les festifs
 - cadeau
 - adulte
 - enfant
+- noël
 title: Chaussettes Rudolf
 images:
 - "/assets/2_rudolf.png"
 price: 12
 conditions: ''
+reviews: []
 
 ---
 ## Chaussettes Rudolf
