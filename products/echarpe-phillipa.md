@@ -1,14 +1,15 @@
 ---
 tags:
+- Les snoods et écharpes
 - hiver
 - femme
 - cadeau
-- Les snoods et écharpes
 title: Echarpe Phillipa
 images:
 - "/assets/4_philippa.png"
 price: 30
 conditions: ''
+reviews: []
 
 ---
 ## Écharpe Philippa

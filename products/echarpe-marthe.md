@@ -1,5 +1,6 @@
 ---
 tags:
+- Les snoods et écharpes
 - hiver
 - cadeau
 - femme
@@ -8,6 +9,7 @@ images:
 - "/assets/5_marthe.png"
 price: 30
 conditions: ''
+reviews: []
 
 ---
 ## Snood Marthe
