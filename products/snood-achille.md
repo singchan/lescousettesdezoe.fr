@@ -1,11 +1,11 @@
 ---
 tags:
+- Les snoods et écharpes
 - hiver
 - enfant
 - garçon
 - fille
 - cadeau
-- Les snoods et écharpes
 title: Snood Achille
 images:
 - "/assets/2_achille.png"
