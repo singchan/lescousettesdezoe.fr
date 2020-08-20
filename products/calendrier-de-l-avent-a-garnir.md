@@ -1,16 +1,17 @@
 ---
 tags:
-- noël
 - Les festifs
 - cadeau
 - pratique
 - enfant
+- noël
 title: Calendrier de l’Avent à garnir
 images:
 - "/assets/1_calendrier_avent.png"
 - "/assets/1a_calendrier_avent.png"
 price: 45
 conditions: ''
+reviews: []
 
 ---
 ## Calendrier de l’Avent à garnir
