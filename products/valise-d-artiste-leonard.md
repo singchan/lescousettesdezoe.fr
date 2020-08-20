@@ -1,12 +1,12 @@
 ---
 tags:
+- Le coin des artistes
 - cadeau
 - garçon
 - fille
 - adulte
 - girly
 - enfant
-- Le coin des artistes
 title: Valise d'artiste Léonard
 images:
 - "/assets/1_leonard.png"
