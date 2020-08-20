@@ -2,11 +2,13 @@
 tags:
 - Les cadeaux de naissance
 - bébé
+- Les nomades
 title: Pochette bébé nomade
 images:
 - "/assets/3_pochette_nomade.png"
 price: 26
 conditions: ''
+reviews: []
 
 ---
 ## Pochette bébé nomade
