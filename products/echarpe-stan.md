@@ -1,15 +1,16 @@
 ---
 tags:
+- Les snoods et écharpes
 - hiver
 - cadeau
 - homme
 - adulte
-- Les snoods et écharpes
 title: Echarpe Stan
 images:
 - "/assets/5_stan.png"
 price: 30
 conditions: ''
+reviews: []
 
 ---
 ## Echarpe Stan
