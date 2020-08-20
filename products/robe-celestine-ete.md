@@ -1,11 +1,11 @@
 ---
 tags:
+- Les robes
 - fille
 - enfant
 - girly
 - cadeau
 - été
-- Les robes
 title: Robe Célestine été
 images:
 - "/assets/1_celestine_ete.png"
