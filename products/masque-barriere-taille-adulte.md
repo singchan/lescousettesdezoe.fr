@@ -7,6 +7,9 @@ price: 7
 title: Masque barrière taille adulte
 images:
 - "/uploads/masques_adulte.png"
+- "/uploads/masques-43.jpeg"
+- "/uploads/masques-42.jpeg"
+- "/uploads/masques-41.jpeg"
 conditions: ''
 reviews: []
 
