@@ -1,11 +1,11 @@
 ---
 tags:
+- Les robes
 - cadeau
 - enfant
 - fille
 - hiver
 - girly
-- Les robes
 title: Robe Célestine hiver
 images:
 - "/assets/2_celestine_hiver.png"
