@@ -1,11 +1,11 @@
 ---
 tags:
+- Les cadeaux de naissance
+- Les personnalisables
 - bébé
 - cadeau
 - fille
 - garçon
-- Les cadeaux de naissance
-- Les personnalisables
 title: Bavoirs Luke
 images:
 - "/assets/1_luke1.png"
