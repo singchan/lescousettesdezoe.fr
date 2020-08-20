@@ -1,15 +1,16 @@
 ---
 tags:
+- Les nomades
 - cadeau
 - pratique
 - homme
 - femme
-- Les nomades
 title: Etui pour tablette Joshua
 images:
 - "/assets/4_joshua.png"
 price: 35
 conditions: ''
+reviews: []
 
 ---
 ## Etui pour tablette Joshua
