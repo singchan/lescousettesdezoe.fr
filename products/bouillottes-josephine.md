@@ -1,8 +1,8 @@
 ---
 tags:
+- Les cocooning
 - hiver
 - cadeau
-- Les cocooning
 title: Bouillottes Joséphine
 images:
 - "/uploads/bouill.png"
