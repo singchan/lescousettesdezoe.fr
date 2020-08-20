@@ -3,6 +3,8 @@ tags:
 - Le coin des cuisiniers
 - pratique
 - cadeau
+- homme
+- femme
 title: Sac à tartes Octave
 images:
 - "/assets/1_octave1.png"
