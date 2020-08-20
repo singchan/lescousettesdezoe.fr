@@ -1,5 +1,7 @@
 ---
 tags:
+- Les snoods et écharpes
+- girly
 - hiver
 - enfant
 - fille
@@ -8,6 +10,7 @@ images:
 - "/assets/1_alma.png"
 price: 28
 conditions: ''
+reviews: []
 
 ---
 ## Snood Alma
