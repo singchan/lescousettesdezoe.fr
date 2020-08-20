@@ -1,15 +1,16 @@
 ---
 tags:
+- Les nomades
 - femme
 - homme
 - cadeau
 - pratique
-- Les nomades
 title: Kit week-end à Bornéo
 images:
 - "/assets/5_kit_we_borneo.png"
 price: 37
 conditions: ''
+reviews: []
 
 ---
 ## Kit week-end à Bornéo
