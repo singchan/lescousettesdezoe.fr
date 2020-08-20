@@ -1,5 +1,6 @@
 ---
 tags:
+- Les snoods et écharpes
 - hiver
 - cadeau
 - enfant
@@ -10,6 +11,7 @@ images:
 - "/assets/3_hadryen.png"
 price: 25
 conditions: ''
+reviews: []
 
 ---
 ## Snood Hadryen
