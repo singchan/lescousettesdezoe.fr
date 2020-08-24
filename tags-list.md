@@ -1,5 +1,6 @@
 ---
 layout: tag
+title : "#{{generatedTags}}"
 pagination:
   data: collections.generatedTags
   size: 1
