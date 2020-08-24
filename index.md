@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: "Les Cousettes de Zoé - Couture personnalisée - fait main - tissu - qualité - artisan local"
 tags:
 - page
 - home
