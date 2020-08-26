@@ -29,6 +29,8 @@ eleventyConfig.addFilter('tagFilter', function(collection, category) {
   eleventyConfig.addPassthroughCopy('uploads')
   eleventyConfig.addPassthroughCopy('css/*.css')
   eleventyConfig.addPassthroughCopy('js')
+  eleventyConfig.addPassthroughCopy('CNAME')
+
   // other config
   return {
     dir: {
