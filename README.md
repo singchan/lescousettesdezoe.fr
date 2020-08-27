@@ -1,4 +1,4 @@
-# i2k static starter
+Here is the source code of the website [Les Cousettes de Zoé](https://lescousettesdezoe.fr), developed by [INTERNET 2000 French agency](https://internet2000.net)
 
 Tools we use
 
