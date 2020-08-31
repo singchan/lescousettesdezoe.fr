@@ -9,8 +9,9 @@ title: Trousse Paloma grand format
 images:
 - "/assets/2_paloma_grand.png"
 - "/assets/2a_paloma_grand.png"
-price: 
+price: 37
 conditions: ''
+reviews: []
 
 ---
 ## Trousse Paloma grand format
