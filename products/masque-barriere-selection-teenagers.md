@@ -7,11 +7,10 @@ tags:
 price: 7
 title: Masque barrière sélection teenagers
 images:
-- "/uploads/masques_junior.png"
+- "/uploads/masques-41.jpeg"
+- "/uploads/masques-42.jpeg"
 - "/uploads/masques-44.jpeg"
 - "/uploads/masques-46.jpeg"
-- "/uploads/masques-45.jpeg"
-- "/uploads/masques-41.jpeg"
 conditions: ''
 reviews: []
 
