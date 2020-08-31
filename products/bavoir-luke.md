@@ -12,11 +12,11 @@ images:
 - "/assets/1c_luke4.png"
 - "/assets/1b_luke3.png"
 - "/assets/1a_luke2.png"
-price: 
+price: 19
 conditions: ''
 reviews: []
 
 ---
 ## Bavoirs Luke
 
-Bavoirs bandana naissance (taille 0-1 mois), Réglables grâce à deux boutons pression. Lavables à 30 degrés. Option personnalisation : +2€.
+Lot de 3 bavoirs bandana naissance (taille 0-1 mois), Réglables grâce à deux boutons pression. Lavables à 30 degrés. Option personnalisation : +2€ par bavoir personnalisé.
