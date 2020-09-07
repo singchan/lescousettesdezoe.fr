@@ -28,6 +28,9 @@ eleventyConfig.addFilter('tagFilter', function(collection, category) {
   eleventyConfig.addPassthroughCopy('assets')
   eleventyConfig.addPassthroughCopy('uploads')
   eleventyConfig.addPassthroughCopy('css/*.css')
+  eleventyConfig.addPassthroughCopy('css/*.jpg') // favicon
+  eleventyConfig.addPassthroughCopy('css/*.png') // favicon
+  eleventyConfig.addPassthroughCopy('css/*.ico') // favicon
   eleventyConfig.addPassthroughCopy('js')
   eleventyConfig.addPassthroughCopy('CNAME')
 
