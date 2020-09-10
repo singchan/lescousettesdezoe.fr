@@ -6,7 +6,7 @@ tags:
 price: 7
 title: 'Masque barrière jeune enfant : 2-4 ans '
 images:
-- "/uploads/masques_junior.png"
+- "/uploads/masques_2_4ans.png"
 conditions: ''
 reviews: []
 
